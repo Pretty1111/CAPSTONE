@@ -1,3 +1,2 @@
 # CAPSTONE
-## Editing the file
-Its a markdown file in this repository.
+Multi-tasking on various projects.
